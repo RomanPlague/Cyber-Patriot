@@ -1,0 +1,7 @@
+@echo off
+
+if %ERRORLEVEL EQU 0(
+	Echo 
+
+)
+pause
